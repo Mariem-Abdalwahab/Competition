@@ -6,7 +6,7 @@
 - We have also Sales_Operation which organize our sales as it has operation_date, installment_plan, Fees, PaymentMethod, Price and for sure operation id
 - Finally sales person who handle client and records the sale operation it has an ID, Name, Email, phone Numbers  (multi value) and address
     
-    ![initialERD.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/82f4328f-1316-499c-976b-272748013a6c/733627af-206b-4561-989b-212d70c1a7bd/initialERD.jpg)
+    ![initialERD.jpg](./initialERD.jpg)
     
 
 ---
@@ -18,7 +18,7 @@
 - Sales person phone in a single table with id of sales person as a multivalue
 - client phone in a single table with id of client as a multivalue
     
-    ![Initialschema.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/82f4328f-1316-499c-976b-272748013a6c/c05cecfd-c910-4197-b937-1563825a501f/Initialschema.png)
+    ![Initialschema.png](./Initialschema.jpg)
     
 
 ---
